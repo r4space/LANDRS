@@ -2,7 +2,7 @@
 Very beginning of a repo for developing LANDRS: Linked-data API for Networked DRoneS
 
 ## Design diagram1:
-![Concept](./DesignDocs/images/BlockDiagram_Prehack1.svg)
+![Concept](./DesignDocs/images/BetaDesign Block Diagram.png)
 
 ## Design diagram2:
 ![Semantic Model Strawman](./DesignDocs/images/DroneStrawmanConceptualModel.png)
@@ -20,7 +20,15 @@ RDA sUAS data IG [mailing list](https://www.rd-alliance.org/groups/small-unmanne
 
 
 ##Telcos:
-- 6 June 2019 (regular ESIP cluster call)
-- 20 June 2019
-- 11 July 2019
+#### 6 June 2019 4pm EST / 1pm PST / 10pm CEST / 6am AEST
+* [Zoom link](https://notredame.zoom.us/j/796587528)
+* Topic: General discussion about [initial design](http://45.32.159.9/slides/LANDRS_betadesign/index.html)/Esip Summer Meeting plans
+
+#### 20 June 2019 11am EST / 8am PST / 5pm CEST / 1am AEST
+* [Zoom link](https://notredame.zoom.us/j/873908990)
+* Agenda to be posted
+
+#### 11 July 2019 6pm EST / 3pm PST / 00:00 CEST / 8am AEST
+* [Zoom link](https://notredame.zoom.us/j/786507895)
+* Agenda to be posted
 
