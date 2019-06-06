@@ -33,36 +33,36 @@ Linked-data API for Networked DRoneS
 
 ### Drone Data Design Hackathon Tuesday 16 july 2019
 
-**Morning talks:**
+**10:15 - 11:45 (90min) Morning talks:**
+   - Introductions:
+    - Jane Wyngaard: LANDRS project plan, beta design
+    - Chuck Vardeman: Required semantics modeling gaps in need of work and progress thus far
+   - Current drone data tooling:
+         - Joe Adams: USGS drone data technical stack
+         - Sudhir Shrestha: Esri drone data technical stack
+         - TBC
+         - TBC
+   - Example data-sets:
+         - Joe Adams: 2019 Aquatic Airshow
+         - Lindsay Barbieri: Parameters in monitoring greenhouse gasses over agricultural lands
 
-    - LANDRS beta design and available tool stack and ontologies
+**11:45 - 12:45 Lunch (60min)**
 
-    - Current drone data tooling
+**12:45 - 14:15 (90min) Competency question development**
+   - More example data-sets:
+      - TBC
+      - TBC
+    - Chuck Vardeman: Group discussion developing compentancy questions
 
-    - Example data-sets
+**14:15 - 14:45 (30min) break**
 
-**Afternoon discussions:**
+**14:45 - 16:15 (90min) Modeling**
+- Topics to be developed during previous session
+- Break into groups
 
-    - Competency question development
+**16:15-16:30 (15min) Short break**
 
-    - Ontology modeling
-
-    - Design review
-
-    - Next steps
-
-## Standards
-
-Web standards
-
-Data formatting standards
-
-Transport Standards
-
-Provenance standards
-
-Metadata standards
-
-Analytics practices
-
-
+**16:30 - 18:00 (90min)**
+   - Report back on modeling
+   - Group wide design review and identification of next steps/new discovered gaps...
+   - Updates on project progression and opportunities going forward (telcos, student exchanges, RDA hackathon)
