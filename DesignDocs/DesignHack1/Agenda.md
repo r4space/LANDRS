@@ -35,20 +35,20 @@
 
 **10:15 - 11:45 (90min) Morning talks:**
    - Introductions:
-    - Jane Wyngaard: LANDRS project plan, beta design
-    - Chuck Vardeman: Required semantics modeling gaps in need of work and progress thus far
+      - Jane Wyngaard: LANDRS project plan, beta design
+      - Chuck Vardeman: Required semantics modeling gaps in need of work and progress thus far
    - Current drone data tooling:
-         - Joe Adams: USGS drone data technical stack
-         - Sudhir Shrestha: Esri drone data technical stack
-         - Chris Schnaufer: Cyverse and drone data
-         - TBC
+      - Joe Adams: USGS drone data technical stack
+      - Sudhir Shrestha: Esri drone data technical stack
+      - Chris Schnaufer: Cyverse and drone data
+      - TBC
 **11:45 - 12:45 Lunch (60min)**
 
 **12:45 - 14:15 (90min) Competency question development**
    - Example data-sets (20min max):
-         - Joe Adams: 2019 Aquatic Airshow
-         - Lindsay Barbieri: Parameters in monitoring greenhouse gasses over agricultural lands
-         - TBC
+      - Joe Adams: 2019 Aquatic Airshow
+      - Lindsay Barbieri: Parameters in monitoring greenhouse gasses over agricultural lands
+      - TBC
    - Chuck Vardeman: Group discussion developing compentancy questions
 
 **14:15 - 14:45 (30min) break**
