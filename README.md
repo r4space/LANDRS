@@ -2,7 +2,7 @@
 Very beginning of a repo for developing LANDRS: Linked-data API for Networked DRoneS
 
 ## Design diagram1:
-![Concept](./DesignDocs/images/BetaDesign Block Diagram.png)
+![Concept](https://github.com/crcresearch/LANDRS/blob/master/DesignDocs/images/BetaDesign%20Block%20Diagram.png)
 
 ## Design diagram2:
 ![Semantic Model Strawman](./DesignDocs/images/DroneStrawmanConceptualModel.png)
