@@ -1,5 +1,5 @@
 # LANDRS Design Hackathon1 
-Linked-data API for Networked DRoneS
+## Linked-data API for Networked DRoneS
 
 ### Pre-event Reccommended Readings:
 
@@ -42,17 +42,14 @@ Linked-data API for Networked DRoneS
          - Sudhir Shrestha: Esri drone data technical stack
          - Chris Schnaufer: Cyverse and drone data
          - TBC
-   - Example data-sets:
-         - Joe Adams: 2019 Aquatic Airshow
-         - Lindsay Barbieri: Parameters in monitoring greenhouse gasses over agricultural lands
-
 **11:45 - 12:45 Lunch (60min)**
 
 **12:45 - 14:15 (90min) Competency question development**
-   - More example data-sets:
-      - TBC
-      - TBC
-    - Chuck Vardeman: Group discussion developing compentancy questions
+   - Example data-sets (20min max):
+         - Joe Adams: 2019 Aquatic Airshow
+         - Lindsay Barbieri: Parameters in monitoring greenhouse gasses over agricultural lands
+         - TBC
+   - Chuck Vardeman: Group discussion developing compentancy questions
 
 **14:15 - 14:45 (30min) break**
 
