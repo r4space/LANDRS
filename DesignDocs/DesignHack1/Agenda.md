@@ -40,7 +40,7 @@ Linked-data API for Networked DRoneS
    - Current drone data tooling:
          - Joe Adams: USGS drone data technical stack
          - Sudhir Shrestha: Esri drone data technical stack
-         - TBC
+         - Chris Schnaufer: Cyverse and drone data
          - TBC
    - Example data-sets:
          - Joe Adams: 2019 Aquatic Airshow
